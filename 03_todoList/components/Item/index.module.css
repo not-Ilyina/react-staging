@@ -1,0 +1,8 @@
+.item {
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 100px;
+}
+.btn {
+    margin-left: 200px;
+}
